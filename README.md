@@ -14,7 +14,8 @@
 * Install npm fs, npm express, npm path, and npm morgan.
 
 ## Usage
-* 
+* Follow this link to access deployed application: https://sydcreel-note-taker.herokuapp.com/
+* Click "Get Started" to be redirected to the note taking page.
 
 ## Contribution
 * https://www.contributor-covenant.org/
